@@ -1,0 +1,87 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
+
+}
+
+p.text{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    font-size: 18px;
+    text-indent: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+#location{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid #dedede;
+    border-radius: 5px;
+    opacity: .7;
+
+
+
+
+}
+
+h2{
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    font-weight: 300;
+
+}
+
+h3{
+    background-color: #349655;
+    font-size: 16px;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    margin: 0px;
+   
+
+}
+
+h3 a:hover{
+    color: #f1ce51;
+
+
+}
+h3 a{
+        text-decoration: none;
+        color: white;
+        font-weight: 300;
+       
+
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding-top: 200px;
+    text-shadow: 3px 2px black;
+    color: #f1ce51;
+    letter-spacing: 5px;
+
+}   
+
+.imgproduct{
+    background-image: url(https://geographical.co.uk/media/k2/items/cache/8e4e30c8fc08507de1b0b5afc7d32a85_XL.jpg);
+
+}
